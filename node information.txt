@@ -1,0 +1,62 @@
+install new package
+npm install -g <package name>
+
+install new package globally
+npm install -g <package name>
+
+//////////////////////
+
+lodash
+npm install lodash
+Javascrip functions
+
+//////////////////////
+
+nodemon
+npm install -g  nodemon
+reload, automatically code on saving
+
+//////////////////////
+
+npm init
+to create the pakage.json file
+for all files dependencies
+
+npm init --yes
+to create all default without to be prompt
+
+//////////////////////
+
+frameworks for node.js
+Express
+Sails
+Koa
+Socket.io
+
+//////////////////////
+
+Express cont support post request body pars neet to add this libery
+npm install -s body-pars
+
+//////////////////////
+
+polling request 
+Socket.io
+
+//////////////////////
+
+mongoose = NoSQL database
+mongodb.com // mlab.com
+
+npm install -s mongoose
+
+//////////////////////
+
+Jasmine (node.js testing)
+npm install --save--dev jasmine
+
+//-save--dev it should only be available in the devalaper mode
+//to be able to get reqast in the spec file 
+npm install --save--dev request
+
+//////////////////////
